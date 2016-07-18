@@ -3,11 +3,15 @@
 }
 
 td, th {
-  vertical-align: middle !important;
+  vertical-align: bottom !important;
   text-align: center !important;
 }
 
+td {
+  height: 10rem;
+}
+
 td:first-of-type {
-  height: 200px;
-  width: 250px;
+  height: 10rem;
+  width: 12rem;
 }
