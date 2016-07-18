@@ -1,6 +1,6 @@
 # weather-react-redux
 
-###Weather application using Redux and React### [Redux](https://www.udemy.com/react-redux/)?
+###Weather application using Redux and React### 
 
 ###Getting Started###
 
